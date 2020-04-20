@@ -8,17 +8,7 @@ The link to the competition is the following: https://www.drivendata.org/competi
 
 This work was done with the help of my colleagues Begoña Frigolet and Dwight Alexander. The model we developped ended up in the top 15% out of more than 8900 people listed on the Leaderboard with a score of 0.8129.
 
-The script associated with this model is found in the file 1_Pump_it_up_competition. It contains the following:
-#### 1. The datasets
-#### 2. Exploratory Data Analysis
-#### 3. First drop of features
-#### 4. Feature Engineering and Modeling
-#### 4.2 Running the First Model (Hyper parameter tunning)
-#### 4.3 Feature Creation 
-#### 4.4 Trying a lightGBM model (Hyper parameter tunning)
-#### 5. Trying an ensemble: the VotingClassifier
-#### 6. Conclusion about the main model
-#### 7. Extra: A trial with H20's Random Forrest 
+The script associated with this model is found in the file 1_Pump_it_up_competition. It contains the following: a detailed Exploratory Data Analysis, Feature Engineering and Modeling, Feature Creation, a lightGBM, an ensemble VotingClassifier and a trial with H2O's Random Forrest.
 
 # 2. Clustering Footballers' playing styles (Using Dataiku)
 The scope of our analysis is to aid modern football teams in the process of individuating, selecting and acquiring the best possible fit as an addition to their current line-up.
