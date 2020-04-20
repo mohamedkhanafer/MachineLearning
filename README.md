@@ -18,3 +18,11 @@ As no such thing as an optimal cluster exists, our approach consisted of categor
 The dataset used: we derived all the attributes from the players’ in-match performance came from the football game Football Manager and can be found here: https://www.kaggle.com/ajinkyablaze/football-manager-data.
 
 This work was done with the help of my colleague Aayush Kejriwal. We used Dataiku to perform our modeling and elaborate on all the results in the document 2_Clustering_footballers_playing_styles. 
+
+# 3. The HR Dataset: Determining the probability of employees' attrition from the company
+The goal here is to model the probability of attrition (employees leaving, either on their own or because they got fired) of each individual, as well as to understand which variables are the most important ones and need to be addressed right away.
+The goal of this notebook is to highlight the importance of the feature engineering process.
+
+To be able to build a predictive model on this data, I first start a thorough exploration of the data, I then create a baseline model that I improve on by applying Feature Engineering.
+
+This is an individual work and the code can be found in the folder 3_HR_Dataset_Feature_Engineering and the dataset is from Kaggle and can be found here: https://www.kaggle.com/giripujar/hr-analytics.
