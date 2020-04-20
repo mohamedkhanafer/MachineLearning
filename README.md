@@ -8,7 +8,7 @@ The link to the competition is the following: https://www.drivendata.org/competi
 
 The model developped ended up in the top 15% out of more than 8900 people listed on the Leaderboard with a score of 0.8129.
 
-The script associated with this model is find in the file 1_Pump_it_up_competition. It contains the following:
+The script associated with this model is found in the file 1_Pump_it_up_competition. It contains the following:
 #### 1. The datasets
 #### 2. Exploratory Data Analysis
 #### 3. First drop of features
