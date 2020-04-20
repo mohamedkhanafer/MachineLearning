@@ -13,11 +13,10 @@ The script associated with this model is find in the file 1_Pump_it_up_competiti
 #### 2. Exploratory Data Analysis
 #### 3. First drop of features
 #### 4. Feature Engineering and Modeling
-#### 4.2 Running the First Model
-##### 4.2.1 Hyper parameter tunning
+#### 4.2 Running the First Model (Hyper parameter tunning)
 #### 4.3 Feature Creation 
-#### 4.4 Trying a lightGBM model
-##### 4.4.1 Hyper parameter tunning
+#### 4.4 Trying a lightGBM model (Hyper parameter tunning)
 #### 5. Trying an ensemble: the VotingClassifier
 #### 6. Conclusion about the main model
 #### 7. Extra: A trial with H20's Random Forrest 
+
