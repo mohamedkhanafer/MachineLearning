@@ -26,3 +26,12 @@ The goal of this notebook is to highlight the importance of the feature engineer
 To be able to build a predictive model on this data, I first start a thorough exploration of the data, I then create a baseline model that I improve on by applying Feature Engineering.
 
 This is an individual work and the code can be found in the folder 3_HR_Dataset_Feature_Engineering and the dataset is from Kaggle and can be found here: https://www.kaggle.com/giripujar/hr-analytics.
+
+# 4. Housing Regression Model on Scrapped Data from Idealista (Using Dataiku)
+This model was built for two different business scenarios:
+- To assist investors looking for underpriced houses;
+- To use as a reference in the construcion of new buildings/houses given certain features.
+
+We built the model based on data scrapped over 3 days from Idealista, the largest estate website in Spain. And our model is built on data from 12.000 listings accross the Madrid region. 
+
+This work was done with the help of my colleague Aayush Kejriwal, and the technical report of our model can be found in the folder 4_Housing_Model_Regression. This model was built using Daitaiku
