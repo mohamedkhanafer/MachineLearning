@@ -35,3 +35,12 @@ This model was built for two different business scenarios:
 We built the model based on data scrapped over 3 days from Idealista, the largest estate website in Spain. And our model is built on data from 12.000 listings accross the Madrid region. 
 
 This work was done with the help of my colleague Aayush Kejriwal, and the technical report of our model can be found in the folder 4_Housing_Model_Regression. This model was built using Daitaiku
+
+# 5. Model for predicting short-term Solar Energy Production
+The goal of this project is to discover which machine learning methods would provide the best short term predictions of solar energy production. 
+This project is based on a Kaggle Competition: https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest/overview.
+
+We were given pre-processed data with PCA that we had to model. We tried various approaches before and the last model chosen is a SVM on the clustered stations' data with hyperparameter tunning. 
+
+Our model's score would be ranked in the top 20% of the competition. This work was done with the help of my colleagues Aayush Kejriwal and Arda Pekkucukyan. It can be found in the file 5_Predicting_solar_energy_production.
+
