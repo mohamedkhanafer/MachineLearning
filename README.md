@@ -8,7 +8,7 @@ The link to the competition is the following: https://www.drivendata.org/competi
 
 This work was done with the help of my colleagues Begoña Frigolet and Dwight Alexander. The model we developped ended up in the top 15% out of more than 8900 people listed on the Leaderboard with a score of 0.8129.
 
-The script associated with this model is found in the file 1_Pump_it_up_competition. It contains the following: a detailed Exploratory Data Analysis, Feature Engineering and Modeling, Feature Creation, a lightGBM, an ensemble VotingClassifier and a trial with H2O's Random Forrest.
+The script associated with this model is found in the file *1_Pump_it_up_competition*. It contains the following: a detailed Exploratory Data Analysis, Feature Engineering and Modeling, Feature Creation, a lightGBM, an ensemble VotingClassifier and a trial with H2O's Random Forrest.
 
 ## 2. Clustering Footballers' playing styles (Using Dataiku)
 The scope of our analysis is to aid modern football teams in the process of individuating, selecting and acquiring the best possible fit as an addition to their current line-up.
@@ -17,7 +17,7 @@ As no such thing as an optimal cluster exists, our approach consisted of categor
 
 The dataset used: we derived all the attributes from the players’ in-match performance came from the football game Football Manager and can be found here: https://www.kaggle.com/ajinkyablaze/football-manager-data.
 
-This work was done with the help of my colleague Aayush Kejriwal. We used Dataiku to perform our modeling and elaborate on all the results in the document 2_Clustering_footballers_playing_styles. 
+This work was done with the help of my colleague Aayush Kejriwal. We used Dataiku to perform our modeling and elaborate on all the results in the document *2_Clustering_footballers_playing_styles*. 
 
 ## 3. The HR Dataset: Determining the probability of employees' attrition from the company
 The goal here is to model the probability of attrition (employees leaving, either on their own or because they got fired) of each individual, as well as to understand which variables are the most important ones and need to be addressed right away.
@@ -25,7 +25,7 @@ The goal of this notebook is to highlight the importance of the feature engineer
 
 To be able to build a predictive model on this data, I first start a thorough exploration of the data, I then create a baseline model that I improve on by applying Feature Engineering.
 
-This is an individual work and the code can be found in the folder 3_HR_Dataset_Feature_Engineering and the dataset is from Kaggle and can be found here: https://www.kaggle.com/giripujar/hr-analytics.
+This is an individual work and the code can be found in the folder *3_HR_Dataset_Feature_Engineering* and the dataset is from Kaggle and can be found here: https://www.kaggle.com/giripujar/hr-analytics.
 
 ## 4. Housing Regression Model on Scrapped Data from Idealista (Using Dataiku)
 This model was built for two different business scenarios:
@@ -34,7 +34,7 @@ This model was built for two different business scenarios:
 
 We built the model based on data scrapped over 3 days from Idealista, the largest estate website in Spain. And our model is built on data from 12.000 listings accross the Madrid region. 
 
-This work was done with the help of my colleague Aayush Kejriwal, and the technical report of our model can be found in the folder 4_Housing_Model_Regression. This model was built using Daitaiku
+This work was done with the help of my colleague Aayush Kejriwal, and the technical report of our model can be found in the folder *4_Housing_Model_Regression*. This model was built using Daitaiku
 
 ## 5. Model for predicting short-term Solar Energy Production
 The goal of this project is to discover which machine learning methods would provide the best short term predictions of solar energy production. 
@@ -42,5 +42,18 @@ This project is based on a Kaggle Competition: https://www.kaggle.com/c/ams-2014
 
 We were given pre-processed data with PCA that we had to model. We tried various approaches before and the last model chosen is a SVM on the clustered stations' data with hyperparameter tunning. 
 
-Our model's score would be ranked in the top 20% of the competition. This work was done with the help of my colleagues Aayush Kejriwal and Arda Pekkucukyan. It can be found in the file 5_Predicting_solar_energy_production.
+Our model's score would be ranked in the top 20% of the competition and achieved the 2nd highest score in class. This work was done with the help of my colleagues Aayush Kejriwal and Arda Pekkucukyan. It can be found in the file *5_Predicting_solar_energy_production*.
 
+## 6. Models for predicting COVID-19 Fatalities and Cases by country 
+The goal of this in-class assignment was to develop models to predict COVID-related fatalities and deaths in selected countries around the world. This was a challenge hosted on Kaggle and can be found [here](https://www.kaggle.com/c/covid19-global-forecasting-week-4). 
+
+We built our work around 3 pillars:
+
+1. `Explarotary Data Analysis`: we carried out some basic EDA on the data provided, building an interactive Leaflet map to showcase the evolution of the pandemic, constructed graphs to highlight trends, and commented on other potential approaches;
+
+2. `Time Series Models`: we looked at ways of using ARIMA models to predict both fatalities and cases by country (yielded our highest score);
+
+3. `Machine Learning Models`: we tried including variables from external sources to try increasing the accuracy of the predictions.
+
+In the file *6_COVID_cases_fatalities_models* I provide the code we develop as part of a team with my colleagues Lina Carillo, Aayush Kejriwal, Jonas Hellevang, and Paula San Roman (Note: the train and test datasets should be downloadable from [here](https://www.kaggle.com/c/covid19-global-forecasting-week-4/data).
+Note also that some parts of the code used was inspired by Kaggle notebooks referenced in the codes as well as codes provided by our professor Jesus Prada Alonso.
