@@ -1,0 +1,314 @@
+Country_Region;Province_State;Female_Leader
+Afghanistan;;0
+Albania;;0
+Algeria;;0
+Andorra;;0
+Angola;;0
+Antigua and Barbuda;;0
+Argentina;;0
+Armenia;;0
+Austria;;0
+Azerbaijan;;0
+Bahamas;;0
+Bahrain;;0
+Bangladesh;;1
+Barbados;;1
+Belarus;;0
+Belgium;;1
+Belize;;0
+Benin;;0
+Bhutan;;0
+Bolivia;;1
+Bosnia and Herzegovina;;0
+Botswana;;0
+Brazil;;0
+Brunei;;0
+Bulgaria;;0
+Burkina Faso;;0
+Burma;;0
+Burundi;;0
+Cabo Verde;;0
+Cambodia;;0
+Cameroon;;0
+Central African Republic;;0
+Chad;;0
+Chile;;0
+Colombia;;0
+Congo (Brazzaville);;0
+Congo (Kinshasa);;0
+Costa Rica;;0
+Cote d'Ivoire;;0
+Croatia;;0
+Cuba;;0
+Cyprus;;0
+Czechia;;0
+Denmark;;1
+Diamond Princess;;0
+Djibouti;;0
+Dominica;;0
+Dominican Republic;;0
+Ecuador;;0
+Egypt;;0
+El Salvador;;0
+Equatorial Guinea;;0
+Eritrea;;0
+Estonia;;1
+Eswatini;;0
+Ethiopia;;1
+Fiji;;0
+Finland;;1
+France;;0
+Gabon;;0
+Gambia;;0
+Georgia;;1
+Germany;;1
+Ghana;;0
+Greece;;1
+Grenada;;0
+Guatemala;;0
+Guinea;;0
+Guinea-Bissau;;0
+Guyana;;0
+Haiti;;0
+Holy See;;0
+Honduras;;0
+Hungary;;0
+Iceland;;1
+India;;0
+Indonesia;;0
+Iran;;0
+Iraq;;0
+Ireland;;0
+Israel;;0
+Italy;;0
+Jamaica;;0
+Japan;;0
+Jordan;;0
+Kazakhstan;;0
+Kenya;;0
+Korea, South;;0
+Kosovo;;0
+Kuwait;;0
+Kyrgyzstan;;0
+Laos;;0
+Latvia;;0
+Lebanon;;0
+Liberia;;0
+Libya;;0
+Liechtenstein;;0
+Lithuania;;0
+Luxembourg;;0
+Madagascar;;0
+Malawi;;0
+Malaysia;;0
+Maldives;;0
+Mali;;0
+Malta;;0
+Mauritania;;0
+Mauritius;;0
+Mexico;;0
+Moldova;;0
+Monaco;;0
+Mongolia;;0
+Montenegro;;0
+Morocco;;0
+Mozambique;;0
+MS Zaandam;;0
+Namibia;;1
+Nepal;;1
+Netherlands;;0
+New Zealand;;1
+Nicaragua;;0
+Niger;;0
+Nigeria;;0
+North Macedonia;;0
+Norway;;1
+Oman;;0
+Pakistan;;0
+Panama;;0
+Papua New Guinea;;0
+Paraguay;;0
+Peru;;0
+Philippines;;0
+Poland;;0
+Portugal;;0
+Qatar;;0
+Romania;;0
+Russia;;0
+Rwanda;;0
+Saint Kitts and Nevis;;0
+Saint Lucia;;0
+Saint Vincent and the Grenadines;;0
+San Marino;;0
+Sao Tome and Principe;;0
+Saudi Arabia;;0
+Senegal;;0
+Serbia;;1
+Seychelles;;0
+Sierra Leone;;0
+Singapore;;1
+Slovakia;;1
+Slovenia;;0
+Somalia;;0
+South Africa;;0
+South Sudan;;0
+Spain;;0
+Sri Lanka;;0
+Sudan;;0
+Suriname;;0
+Sweden;;0
+Switzerland;;0
+Syria;;0
+Taiwan*;;1
+Tanzania;;0
+Thailand;;0
+Timor-Leste;;0
+Togo;;0
+Trinidad and Tobago;;1
+Tunisia;;0
+Turkey;;0
+Uganda;;0
+Ukraine;;0
+United Arab Emirates;;0
+United Kingdom;;0
+Uruguay;;0
+Uzbekistan;;0
+Venezuela;;0
+Vietnam;;0
+West Bank and Gaza;;0
+Western Sahara;;0
+Zambia;;0
+Zimbabwe;;0
+US;Alabama;0
+US;Alaska;0
+Canada;Alberta;0
+United Kingdom;Anguilla;0
+China;Anhui;0
+US;Arizona;0
+US;Arkansas;0
+Netherlands;Aruba;0
+Australia;Australian Capital Territory;0
+China;Beijing;0
+United Kingdom;Bermuda;0
+Netherlands;Bonaire, Sint Eustatius and Saba;0
+Canada;British Columbia;0
+United Kingdom;British Virgin Islands;0
+US;California;0
+United Kingdom;Cayman Islands;0
+United Kingdom;Channel Islands;0
+China;Chongqing;0
+US;Colorado;0
+US;Connecticut;0
+Netherlands;Curacao;0
+US;Delaware;0
+US;District of Columbia;0
+United Kingdom;Falkland Islands (Malvinas);0
+Denmark;Faroe Islands;1
+US;Florida;0
+France;French Guiana;0
+France;French Polynesia;0
+China;Fujian;0
+China;Gansu;0
+US;Georgia;0
+United Kingdom;Gibraltar;0
+Denmark;Greenland;1
+France;Guadeloupe;0
+US;Guam;0
+China;Guangdong;0
+China;Guangxi;0
+China;Guizhou;0
+China;Hainan;0
+US;Hawaii;0
+China;Hebei;0
+China;Heilongjiang;0
+China;Henan;0
+China;Hong Kong;0
+China;Hubei;0
+China;Hunan;0
+US;Idaho;0
+US;Illinois;0
+US;Indiana;0
+China;Inner Mongolia;0
+US;Iowa;0
+United Kingdom;Isle of Man;0
+China;Jiangsu;0
+China;Jiangxi;0
+China;Jilin;0
+US;Kansas;0
+US;Kentucky;0
+China;Liaoning;0
+US;Louisiana;0
+China;Macau;0
+US;Maine;0
+Canada;Manitoba;0
+France;Martinique;0
+US;Maryland;0
+US;Massachusetts;0
+France;Mayotte;0
+US;Michigan;0
+US;Minnesota;0
+US;Mississippi;0
+US;Missouri;0
+US;Montana;0
+United Kingdom;Montserrat;0
+US;Nebraska;0
+US;Nevada;0
+Canada;New Brunswick;0
+France;New Caledonia;0
+US;New Hampshire;0
+US;New Jersey;0
+US;New Mexico;0
+Australia;New South Wales;0
+US;New York;0
+Canada;Newfoundland and Labrador;0
+China;Ningxia;0
+US;North Carolina;0
+US;North Dakota;0
+Australia;Northern Territory;0
+Canada;Northwest Territories;0
+Canada;Nova Scotia;0
+US;Ohio;0
+US;Oklahoma;0
+Canada;Ontario;0
+US;Oregon;0
+US;Pennsylvania;0
+Canada;Prince Edward Island;0
+US;Puerto Rico;0
+China;Qinghai;0
+Canada;Quebec;0
+Australia;Queensland;0
+France;Reunion;0
+US;Rhode Island;0
+France;Saint Barthelemy;0
+France;Saint Pierre and Miquelon;0
+Canada;Saskatchewan;0
+China;Shaanxi;0
+China;Shandong;0
+China;Shanghai;0
+China;Shanxi;0
+China;Sichuan;0
+Netherlands;Sint Maarten;0
+Australia;South Australia;0
+US;South Carolina;0
+US;South Dakota;0
+France;St Martin;0
+Australia;Tasmania;0
+US;Tennessee;0
+US;Texas;0
+China;Tianjin;0
+China;Tibet;0
+United Kingdom;Turks and Caicos Islands;0
+US;Utah;0
+US;Vermont;0
+Australia;Victoria;0
+US;Virgin Islands;0
+US;Virginia;0
+US;Washington;0
+US;West Virginia;0
+Australia;Western Australia;0
+US;Wisconsin;0
+US;Wyoming;0
+China;Xinjiang;0
+Canada;Yukon;0
+China;Yunnan;0
+China;Zhejiang;0
